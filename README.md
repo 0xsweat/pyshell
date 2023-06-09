@@ -37,5 +37,6 @@ Simple python3.10+ shell
 - sleep : waits for an amount of seconds
 - touch : creates an empty file
 - uname : tells you some system information
+- commands : tells you all the commands
 - you can use && to string commands together
 - You can type in a command with no args to see it's usage or look at the comments in the file, commands not here will attempt to run elsewhere
