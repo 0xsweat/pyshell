@@ -2,6 +2,8 @@
 #     pyshell
 Simple python3.10+ shell
 # Commands
+- time : will tell you the time it takes to run the command specified, put this at the start of the line
+- rs : this will make you run the command elsewhere, put this at the start of the line
 - wc : wordcount
 - req : basically curl
 - wget : wget
@@ -35,4 +37,5 @@ Simple python3.10+ shell
 - sleep : waits for an amount of seconds
 - touch : creates an empty file
 - uname : tells you some system information
+- you can use && to string commands together
 - You can type in a command with no args to see it's usage or look at the comments in the file, commands not here will attempt to run elsewhere
